@@ -10,5 +10,5 @@ If I were to rewrite this, I'd add better benchmarking data, make the memory str
 
 Libraries needed are boost, SDL2 and SDL2_image, and glm.
 
-![screen grab][example.gif]
+![screen grab](example.gif)
 
